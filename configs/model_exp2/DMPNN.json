@@ -1,0 +1,8 @@
+{
+  "DMPNN_hidden_size": 1200,
+  "depth": 2,
+  "mlp_hidden_size": 900,
+  "drop_rate": 0.0,
+  "graph_pool": "max"
+}
+

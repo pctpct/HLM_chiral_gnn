@@ -1,0 +1,8 @@
+{
+  "gnn_hidden_size": 600,
+  "depth": 3,
+  "drop_rate": 0.2,
+  "graph_pool": "max",
+  "tetra_message": "tetra_permute_concat"
+}
+

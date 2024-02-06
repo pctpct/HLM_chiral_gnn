@@ -1,0 +1,7 @@
+{
+  "input_dim": 1024,
+  "input_drop_rate": 0.1,
+  "num_hidden_layer": 2,
+  "num_hidden_units_list": [512,256],
+  "hidden_drop_rate": 0.4
+}
